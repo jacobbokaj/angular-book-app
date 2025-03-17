@@ -1,1 +1,13 @@
-<p>library works!</p> ww
+<p>library works!</p> 
+
+<form [formGroup]="bookSearch" (submit)="searchBook()">
+    <label for="search">Search id</label>
+    <input id="search" type="number" formControlName="id">
+    <button type="submit" class="primary">Search for book</button>
+</form>
+@if (bookSearched == undefined) {
+    <p>There is not a valid book id in the box</p>
+}@else {
+    <p>Book title: {{bookSearched.data.Title}}</p>
+    <button (click)="addBook()">Add book</button>
+}
