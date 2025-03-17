@@ -1,0 +1,79 @@
+{
+    "data": {
+        "id": 19,
+        "Year": 1986,
+        "Title": "It",
+        "handle": "it",
+        "Publisher": "Viking",
+        "ISBN": "978-0-670-81302-5",
+        "Pages": 1138,
+        "Notes": [
+            "Winner, British Fantasy Award’s August Derleth Award, 1987",
+            "Nominee, World Fantasy Award, 1987",
+            "Runner-up (3rd place), Locus Award for Best Fantasy Novel, 1987[2]"
+        ],
+        "created_at": "2023-11-13T23:48:50.223Z",
+        "villains": [
+            {
+                "name": "Henry Bowers",
+                "url": "https://stephen-king-api.onrender.com/api/villain/7"
+            },
+            {
+                "name": "Butch Bowers",
+                "url": "https://stephen-king-api.onrender.com/api/villain/8"
+            },
+            {
+                "name": "Greta Bowie",
+                "url": "https://stephen-king-api.onrender.com/api/villain/9"
+            },
+            {
+                "name": "Victor Criss",
+                "url": "https://stephen-king-api.onrender.com/api/villain/18"
+            },
+            {
+                "name": "Marcia Fadden",
+                "url": "https://stephen-king-api.onrender.com/api/villain/35"
+            },
+            {
+                "name": "John Garton",
+                "url": "https://stephen-king-api.onrender.com/api/villain/39"
+            },
+            {
+                "name": "Peter Gordon",
+                "url": "https://stephen-king-api.onrender.com/api/villain/43"
+            },
+            {
+                "name": "Patrick Hockstetter",
+                "url": "https://stephen-king-api.onrender.com/api/villain/53"
+            },
+            {
+                "name": "Belch Huggins",
+                "url": "https://stephen-king-api.onrender.com/api/villain/55"
+            },
+            {
+                "name": "It (Creature)",
+                "url": "https://stephen-king-api.onrender.com/api/villain/57"
+            },
+            {
+                "name": "Richard P. Macklin",
+                "url": "https://stephen-king-api.onrender.com/api/villain/69"
+            },
+            {
+                "name": "Alvin Marsh",
+                "url": "https://stephen-king-api.onrender.com/api/villain/72"
+            },
+            {
+                "name": "Sally Mueller",
+                "url": "https://stephen-king-api.onrender.com/api/villain/79"
+            },
+            {
+                "name": "Tom Rogan",
+                "url": "https://stephen-king-api.onrender.com/api/villain/91"
+            },
+            {
+                "name": "Christopher Unwin",
+                "url": "https://stephen-king-api.onrender.com/api/villain/107"
+            }
+        ]
+    }
+}

@@ -9,9 +9,9 @@ export interface Book{
         Pages: number;
         Notes: string[];
         created_at: string;
-        villains: [{
+        villains: {
             name: string;
             url: string;
-        }];
+    }[];
     }
 }
