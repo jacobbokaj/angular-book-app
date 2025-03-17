@@ -1,1 +1,11 @@
 <p>book-details works!</p>
+@if(book != null){
+    <section class="listing">
+        <p>Title: {{ book.data.Title}}</p>
+
+        <form [formGroup]="bookForm">
+            <label>Comment</label> <br>
+            <textarea name="text" cols="20" rows="5" formControlName="comment"></textarea>
+        </form>
+    </section>
+}

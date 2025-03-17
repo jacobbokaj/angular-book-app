@@ -11,3 +11,9 @@
     <p>Book title: {{bookSearched.data.Title}}</p>
     <button (click)="addBook()">Add book</button>
 }
+<section class="results">
+    <app-book-details
+        *ngFor="let book of bookList"
+            [book]="book" (delete)="deleteBook($event)">
+        </app-book-details>
+</section>

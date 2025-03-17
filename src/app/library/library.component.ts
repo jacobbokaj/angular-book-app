@@ -4,9 +4,10 @@ import { FormControl, FormGroup, FormsModule, ReactiveFormsModule} from '@angula
 import { LibraryService } from '../library.service';
 import { Book } from '../ts-interfaces/book';
 import { CommonModule } from '@angular/common';
+import { BookDetailsComponent } from "../book-details/book-details.component";
 @Component({
   selector: 'app-library',
-  imports: [RouterModule, FormsModule, ReactiveFormsModule,CommonModule],
+  imports: [RouterModule, FormsModule, ReactiveFormsModule, CommonModule, BookDetailsComponent],
   templateUrl: './library.component.html',
   styleUrl: './library.component.css'
 })
