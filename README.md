@@ -2,7 +2,7 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.1.
 
-This project primarily focuses on testing, so there isn’t a polished visual layout. I have a general understanding of Angular, but I decided to spend my time on other frameworks instead.
+This project primarily focuses on testing, so there isn’t a polished visual layout.
 
 
 ## What I used in this project
